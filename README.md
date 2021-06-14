@@ -2,6 +2,7 @@
 
 ## Demo
 #### Predict
+![predict](https://user-images.githubusercontent.com/80868205/121944066-6d666d00-cd7c-11eb-9e6a-d99128d2a349.gif)
 
 #### Visualize
 ![visualize](https://user-images.githubusercontent.com/80868205/121943965-5293f880-cd7c-11eb-8931-584cdea8b0fc.gif)
