@@ -30,9 +30,6 @@
 * matplotlib
 * numpy
 
-## GUI
-* Tkinter
-
 ## Run
 1. Clone the project
 2. Run file gui.py
