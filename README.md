@@ -1,5 +1,10 @@
 # Digit Recognition - GUI
 
+## Demo
+#### Predict
+
+#### Visualize
+
 ## Dataset
 * MNIST
 
