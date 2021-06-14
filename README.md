@@ -9,6 +9,8 @@
 
 ## Dataset
 * MNIST
+* 60.000 training images
+* 10.000 testing images
 
 ## Model
 * Conv2D: 32 filters, size 3x3, Relu activation
