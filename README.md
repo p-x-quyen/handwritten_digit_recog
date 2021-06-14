@@ -25,4 +25,4 @@
 
 ## Run
 1. Clone the project
-2. Run file
+2. Run file gui.py
