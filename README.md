@@ -9,7 +9,8 @@
 
 ## Dataset
 * MNIST
-* 60.000 training images
+* 50.000 training images
+* 10.000 validating images
 * 10.000 testing images
 
 ## Model
