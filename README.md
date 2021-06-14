@@ -12,6 +12,9 @@
 * Dropout: rate 0.5
 * Dense: 10 units, Softmax activation
 
+### Accuracy
+* 97.7% on test set
+
 ## Library
 * tkinter
 * PIL
