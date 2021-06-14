@@ -1,18 +1,18 @@
 # Digit Recognition - GUI
 
 ## Model
-* Conv2D: 32 filters
-* Conv2D: 64 filters
+* Conv2D: 32 filters, size 3x3, Relu activation
+* Conv2D: 64 filters, size 3x3, Relu activation
 * MaxPooling2D: size 2x2
-* Dropout
-* Dense: 256 units
-* Dropout
-* Dense: 10 units
+* Dropout: rate 0.25
+* Dense: 256 units, Relu activation
+* Dropout: rate 0.5
+* Dense: 10 units, Softmax activation
 
 ## GUI
 * Tkinter
 
-## Libary
+## Library
 * tkinter
 * PIL
 * win32gui
