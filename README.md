@@ -4,6 +4,7 @@
 #### Predict
 
 #### Visualize
+https://user-images.githubusercontent.com/80868205/121943410-c08bf000-cd7b-11eb-94ac-d2bd3db21cfb.mp4
 
 ## Dataset
 * MNIST
